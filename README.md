@@ -1,3 +1,11 @@
+## OBSOLETED
+
+This respository has been obsoleted, it will not be improved or updated.
+
+on Sept 20, 2020.
+
+---
+
 ## Introduction
 
 Auxiliary utilities in the software development process.
